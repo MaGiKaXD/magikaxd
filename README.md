@@ -12,6 +12,9 @@
 ### 📈Status:
 
 ![MaGiKaXD GitHub stats](https://github-readme-stats.vercel.app/api?username=MaGiKaXD&show_icons=true&theme=transparent)
+<br/>
+<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaGiKaXD&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
