@@ -3,10 +3,11 @@
 ---
 ### ⚙My technologies:
 
-![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&color=black) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=CSS3&color=blue)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&color=black) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=CSS3&color=blue) ![Static Badge](https://img.shields.io/badge/GO-%23E34F26?logo=GO&color=white)
 <br/>
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaGiKaXD)
+
 
 ---
 ### 📈Status:
